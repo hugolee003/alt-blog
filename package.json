@@ -1,0 +1,25 @@
+{
+  "name": "alt-blog",
+  "version": "1.0.0",
+  "description": "a simple blog api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugolee003/alt-blog.git"
+  },
+  "author": "Ugochukwu James Egeonu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugolee003/alt-blog/issues"
+  },
+  "homepage": "https://github.com/hugolee003/alt-blog#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2"
+  }
+}
