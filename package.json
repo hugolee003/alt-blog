@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hugolee003/alt-blog"
+    "url": "git+https://github.com/hugolee003/alt-blog.git"
   },
   "author": "Ugochukwu James Egeonu",
   "license": "ISC",
@@ -20,6 +20,7 @@
     "colors": "^1.4.0",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
+    "express-async-handler": "^1.2.0",
     "mongoose": "^6.7.2"
   }
 }
